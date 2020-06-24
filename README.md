@@ -1,2 +1,3 @@
 # hello-world
-Learning GitHub, Hello-World Repository
+
+Hi Guys, this is simple example of Hello-world in GitHub.
